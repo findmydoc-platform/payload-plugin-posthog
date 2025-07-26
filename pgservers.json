@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "findmydocportalplugin",
+      "Group": "Servers",
+      "Host": "postgres5",
+      "Port": 5433,
+      "MaintenanceDB": "postgres",
+      "Username": "postgres",
+      "Password": "password"
+    }
+  }
+}
